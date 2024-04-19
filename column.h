@@ -1,5 +1,5 @@
 #ifndef COLUMN_H
-#define COLUMN_H
+#define COLUMN_
 
 #include <stdio.h>
 #include <stdlib.h>
